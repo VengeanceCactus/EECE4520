@@ -1,7 +1,7 @@
 # EECE4520
 Software Engineering Project Code
 
-### Yuppy City Simulator
+### Yuppie City Simulator
 
 This project will provide a service that asks a user questions about their preferred city features and the weight of these features, and returns a score for each major city. The highest score will determine the best fit.
 
